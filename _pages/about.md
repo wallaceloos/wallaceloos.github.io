@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, University of Calgary. (<a href='https://cumming.ucalgary.ca/centre/image-processing-analysis'>Affiliation</a>)
+subtitle: Research Scientist, University of Calgary (<a href='https://cumming.ucalgary.ca/centre/image-processing-analysis'>Affiliation</a>)
 
 profile:
   align: right
