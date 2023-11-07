@@ -6,7 +6,7 @@ subtitle: <a href='https://cumming.ucalgary.ca/centre/image-processing-analysis'
 
 profile:
   align: right
-  image: prof_pic_2.jpg
+  image: prof_pic_2_gray.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> <a href='https://github.com/wallaceloos'</a> github.com/wallaceloos </p>
