@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href='https://github.com/wallaceloos'</a> github: wallaceloos </p>
+    <p> <a href='https://github.com/wallaceloos'</a> github.com/wallaceloos </p>
     <p>Calgary, Alberta, CA </p>
 
 news: true  # includes a list of news items
