@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <> <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cumming.ucalgary.ca/centre/image-processing-analysis'>Affiliation</a>
 
 profile:
   align: right
