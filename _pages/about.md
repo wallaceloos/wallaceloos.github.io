@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, University of Calgary 
+subtitle: Machine Learning Researcher, University of Calgary 
 
 profile:
   align: right
