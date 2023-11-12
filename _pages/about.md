@@ -9,9 +9,9 @@ profile:
   image: prof_pic_2_gray.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"> </i> Github</a></p>    
+    <p><a href="https://github.com/wallaceloos" title="GitHub"><i class="fab fa-github"> </i> Github</a></p>    
     <br></br>
-    <p><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn </a>  </p>  
+    <p><a href="https://www.linkedin.com/in/wallace-loos-52b317160/" title="LinkedIn"><i class="fab fa-linkedin"></i> LinkedIn </a>  </p>  
     <p>Calgary, Alberta, CA </p>
 
  
