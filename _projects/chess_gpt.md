@@ -57,6 +57,9 @@ Prompt 1 & 2 (with clues)
 <img src="/assets/gifs/draw.gif" width="30%" height="30%">
 <img src="/assets/gifs/white.gif" width="30%" height="30%">
 </p>
+<p align="center">
+<em>From left to right: Black wins, White wins, and a draw.</em>
+</p>
 
 Prompt 1 & 3 (no clues)
 
@@ -65,7 +68,9 @@ Prompt 1 & 3 (no clues)
 <img src="/assets/gifs/stuck2.gif" width="30%" height="30%">
 <img src="/assets/gifs/stuck3.gif" width="30%" height="30%">
 </p>
-
+<p align="center">
+<em>ChatGPT cannot suggest any more valid moves after some point.</em>
+</p>
 
 <p align="justify"> What I noticed along the game was that at the beginning it was easier for the model to suggest what would be the best move, even when it wasn’t the best one. After some time the number of illegal moves increased a lot, and at some point it looked as if the model was randomly choosing the moves and hallucinating. It wasn’t a total surprise, and I wasn’t expecting ChatGPT to be a grandmaster since it wasn’t trained to play chess (my hypothesis). When no clues about the legal moves are given to ChatGPT, it struggles even more to find a valid move. I believe if I fine-tuning the GPT-4o model using a chess dataset, it would probably improve its performance. Also, It is worth mentioning that this was only my first impression, and I didn’t perform any more sophisticated experiments to evaluate other aspects of the model or to validate my hypothesis.</p>
 
