@@ -7,7 +7,7 @@ importance: 1
 category: fun
 ---
 
-[code](https://github.com/wallaceloos/Computer_Vision/blob/master/codes/playing_chess_gpt.py)  
+[[code]](https://github.com/wallaceloos/Computer_Vision/blob/master/codes/playing_chess_gpt.py)  
 
 <p align="justify"> By the time I am writing this project, OpenAI has recently released a new version of ChatGPT, GPT-4o. Then I decided to check how good this model would be at playing chess. Besides the OpenAI API I also used a python library called 
 <a href="https://python-chess.readthedocs.io/en/latest/">python-chess</a>. It is a very handy library for rendering the chessboard, checking illegal movements, etc. </p>
